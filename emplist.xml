@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <emp id="1">
+        <name>张三</name>
+        <age>21</age>
+    </emp>
+    <emp id="2">
+        <name>李四</name>
+        <age>21</age>
+    </emp>
+    <emp id="3">
+        <name>王五</name>
+        <age>21</age>
+    </emp>
+    <emp id="4">
+        <name>赵六</name>
+        <age>21</age>
+    </emp>
+</list>
